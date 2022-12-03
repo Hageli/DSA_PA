@@ -1,9 +1,3 @@
-##################################################
-# kurssi: BM40A1500 Data Structures and Algorithms
-# opiskelija: 0604373, Miro Hagelberg
-# päivämäärä: 3.12.2022
-##################################################
-
 class Node:
 
     def __init__(self, key, next):
